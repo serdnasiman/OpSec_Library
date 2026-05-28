@@ -35,6 +35,7 @@ To prevent your ISP to track your DNS queries.
 ** A way to check if you really are anonymized, check if your WebRTC is Activated, digital fingerprint, etc
 
 - https://ipleak.net/
+- https://browserleaks.com/webrtc
 
 ### TO PASTE CONTENT WITHOUT LOGGING
 
